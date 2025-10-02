@@ -7,6 +7,8 @@ This repository contains an interactive brick wall builder implemented in Python
 
 Install uv: <https://docs.astral.sh/uv/getting-started/installation/>
 
+Install Python 3.13 or higher: <https://docs.astral.sh/uv/guides/install-python/>
+
 Setup the virtual environment and install dependencies:
 
 ```bash
