@@ -1,0 +1,13 @@
+[project]
+name = "th3-jelle-bosscher"
+version = "0.1.0"
+description = "Implementations of various brick bonds, algorithms, and a GUI to visualize them."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "loguru>=0.7.3",
+    "ortools>=9.14.6206",
+    "pyqt6>=6.9.1",
+    "pytest>=8.4.2",
+    "ruff>=0.13.2",
+]
