@@ -1,7 +1,7 @@
 
 # Monumental Take-Home Assignment
 
-A CLI tool to interactively build a wall with bricks.
+This repository contains an interactive brick wall builder implemented in Python as a take-home assignment for Monumental. The application allows users to build a brick wall using different bonding patterns, simulating the process of a robot placing bricks.
 
 ## Installation
 
@@ -15,7 +15,7 @@ uv sync
 
 ## Usage
 
-Run the interactive brick wall builder:
+Run the application:
 
 ```bash
 uv run python src/app.py
