@@ -23,6 +23,8 @@ Run the application:
 uv run python src/app.py
 ```
 
+> Note: First time may take a while.
+
 ## Implementation overview
 
 The codebase is structured into several classes to represent the different components of the brick wall building process:
